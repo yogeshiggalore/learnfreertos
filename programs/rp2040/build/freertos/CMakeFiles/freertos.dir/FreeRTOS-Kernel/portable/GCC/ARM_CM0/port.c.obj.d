@@ -1,0 +1,19 @@
+freertos/CMakeFiles/freertos.dir/FreeRTOS-Kernel/portable/GCC/ARM_CM0/port.c.obj: \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\portable\GCC\ARM_CM0\port.c \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/FreeRTOS.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ c:\vsarm\armcc\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\stdint.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\machine\_default_types.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\features.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\_newlib_version.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\_intsup.h \
+ c:\vsarm\armcc\102021~1.10\arm-none-eabi\include\sys\_stdint.h \
+ d:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\freertosconfig.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/projdefs.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/portable.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/deprecated_definitions.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\portable\GCC\ARM_CM0/portmacro.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/mpu_wrappers.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/task.h \
+ D:\projects\learnfreertos\learnfreertos\programs\rp2040\freertos\FreeRTOS-Kernel\include/list.h
